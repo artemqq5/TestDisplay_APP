@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_text">Это приложение позволяет обнаружить битые пиксели на экране путем отображения различных цветных изображений и проверки каждого пикселя на наличие аномалий.</string>
+    <string name="start_button">Начать тестирование дисплея</string>
+    <string name="time_text">Этот процесс может занять ≈ 5 минут.</string>
+    <string name="last_text1">Последнее тестирование:\t</string>
+    <string name="last_text2">\tбитых пикселей\t</string>
+    <string name="last_text3">\tиз\t</string>
+    <string name="last_text4">\tминут</string>
+
+</resources>

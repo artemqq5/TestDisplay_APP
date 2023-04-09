@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Test Display on broken pixels</string>
+    <string name="hello_text">This application allows you to detect dead pixels on the screen by displaying different color images and checking each pixel for anomalies.</string>
+    <string name="start_button">Start Testing Display</string>
+    <string name="time_text">This process can take ≈ 5 minutes</string>
+    <string name="last_text1">Last Testing:\t</string>
+    <string name="last_text2">\tbroken pixels\t</string>
+    <string name="last_text3">\tout of\t</string>
+    <string name="last_text4">\tminutes</string>
+</resources>
